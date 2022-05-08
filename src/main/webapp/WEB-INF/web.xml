@@ -12,7 +12,11 @@
    <!-- <welcome-file-list>
         <welcome-file>_03_inject.xhtml</welcome-file>
     </welcome-file-list> -->
-    <welcome-file-list>
+   <!-- <welcome-file-list>
         <welcome-file>_04_new.xhtml</welcome-file>
+    </welcome-file-list> -->
+    <welcome-file-list>
+        <welcome-file>iocsiz_disiz/PatronCalisan.xhtml</welcome-file>
     </welcome-file-list>
+
 </web-app>
