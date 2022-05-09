@@ -16,17 +16,17 @@
         <welcome-file>_04_new.xhtml</welcome-file>
     </welcome-file-list> -->
     <!--<welcome-file-list>
-        <welcome-file>iocsiz_disiz/stereotype.xhtml</welcome-file>
+        <welcome-file>iocsiz_disiz/decorator.xhtml</welcome-file>
     </welcome-file-list> -->
 
     <!-- <welcome-file-list>
-        <welcome-file>iocli_dili/stereotype.xhtml</welcome-file>
+        <welcome-file>iocli_dili/decorator.xhtml</welcome-file>
     </welcome-file-list> -->
     <!-- <welcome-file-list>
-        <welcome-file>alternative/stereotype.xhtml</welcome-file>
+        <welcome-file>alternative/decorator.xhtml</welcome-file>
     </welcome-file-list> -->
     <!--<welcome-file-list>
-        <welcome-file>qualifier/stereotype.xhtml</welcome-file>
+        <welcome-file>qualifier/decorator.xhtml</welcome-file>
     </welcome-file-list>-->
     <!--<welcome-file-list>
         <welcome-file>qualifier2/PatronCalisan.xhtml</welcome-file>
@@ -34,8 +34,11 @@
     <!--<welcome-file-list>
         <welcome-file>aop_interceptor/interceptorislogin.xhtml</welcome-file>
     </welcome-file-list>-->
-    <welcome-file-list>
+   <!-- <welcome-file-list>
         <welcome-file>aop_stereotype/stereotype.xhtml</welcome-file>
+    </welcome-file-list> -->
+    <welcome-file-list>
+        <welcome-file>aop_decorator/decorator.xhtml</welcome-file>
     </welcome-file-list>
 
 </web-app>

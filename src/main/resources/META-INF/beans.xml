@@ -12,4 +12,8 @@
     <interceptors>
         <class>com.doganilbars.aop.interceptor.InterceptorYolKesicisAsilis</class>
     </interceptors>
+
+    <decorators>
+        <class>com.doganilbars.aop.decorator.EvDecorator</class>
+    </decorators>
 </beans>
