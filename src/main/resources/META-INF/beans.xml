@@ -9,4 +9,7 @@
         <!-- <class>com.doganilbars.alternative.Patron1</class> -->
         <class>com.doganilbars.alternative.Patron2</class>
     </alternatives>
+    <interceptors>
+        <class>com.doganilbars.aop.interceptor.InterceptorYolKesicisAsilis</class>
+    </interceptors>
 </beans>
