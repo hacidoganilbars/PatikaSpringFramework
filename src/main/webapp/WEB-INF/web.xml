@@ -22,7 +22,11 @@
     <!-- <welcome-file-list>
         <welcome-file>iocli_dili/PatronCalisan.xhtml</welcome-file>
     </welcome-file-list> -->
-    <welcome-file-list>
+    <!-- <welcome-file-list>
         <welcome-file>alternative/PatronCalisan.xhtml</welcome-file>
+    </welcome-file-list> -->
+    <welcome-file-list>
+        <welcome-file>qualifier/PatronCalisan.xhtml</welcome-file>
     </welcome-file-list>
 </web-app>
+
