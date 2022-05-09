@@ -16,25 +16,27 @@
         <welcome-file>_04_new.xhtml</welcome-file>
     </welcome-file-list> -->
     <!--<welcome-file-list>
-        <welcome-file>iocsiz_disiz/interceptorislogin.xhtml</welcome-file>
+        <welcome-file>iocsiz_disiz/stereotype.xhtml</welcome-file>
     </welcome-file-list> -->
 
     <!-- <welcome-file-list>
-        <welcome-file>iocli_dili/interceptorislogin.xhtml</welcome-file>
+        <welcome-file>iocli_dili/stereotype.xhtml</welcome-file>
     </welcome-file-list> -->
     <!-- <welcome-file-list>
-        <welcome-file>alternative/interceptorislogin.xhtml</welcome-file>
+        <welcome-file>alternative/stereotype.xhtml</welcome-file>
     </welcome-file-list> -->
     <!--<welcome-file-list>
-        <welcome-file>qualifier/interceptorislogin.xhtml</welcome-file>
+        <welcome-file>qualifier/stereotype.xhtml</welcome-file>
     </welcome-file-list>-->
     <!--<welcome-file-list>
         <welcome-file>qualifier2/PatronCalisan.xhtml</welcome-file>
     </welcome-file-list>-->
-    <welcome-file-list>
+    <!--<welcome-file-list>
         <welcome-file>aop_interceptor/interceptorislogin.xhtml</welcome-file>
+    </welcome-file-list>-->
+    <welcome-file-list>
+        <welcome-file>aop_stereotype/stereotype.xhtml</welcome-file>
     </welcome-file-list>
-
 
 </web-app>
 
